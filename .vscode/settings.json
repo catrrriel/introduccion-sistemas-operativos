@@ -13,6 +13,8 @@
     "cSpell.words": [
         "distros",
         "Murdock",
-        "pacman"
+        "pacman",
+        "ramdisk",
+        "tmpfs"
     ]
 }
